@@ -1,0 +1,7 @@
+{
+  "name": "bhutanesefolktales",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
